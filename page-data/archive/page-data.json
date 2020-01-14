@@ -1,1 +1,130 @@
-{"componentChunkName":"component---src-pages-archive-js","path":"/archive/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2019-11-12","title":"multiq","tech":["Go"],"github":"https://github.com/dush-t/multiq","external":null,"company":"Upstatement"},"html":"<p>A library that helps a user to register endpoints and spin up lightweight queues to queue http requests to those endpoints in order to achieve strict pessimistic concurrency control at the network request level.</p>"}},{"node":{"frontmatter":{"date":"2018-12-29","title":"mindmap","tech":["Python","Django","React"],"github":"https://github.com/dush-t/mindmap","external":null,"company":null},"html":"<p>A simple web app to help my girlfriend - a design student - create mind-maps for her product design homework.</p>"}},{"node":{"frontmatter":{"date":"2018-05-01","title":"Autohost","tech":["bash","nginx","docker-compose"],"github":"https://github.com/dush-t/autohost","external":null,"company":null},"html":"<p>A collection of shell scripts for quick production deployment of web apps.</p>"}},{"node":{"frontmatter":{"date":"2018-04-20","title":"task-manager","tech":["node.js","express","mongodb"],"github":"https://github.com/dush-t/task-manager","external":null,"company":null},"html":"<p>REST API (with token authentication) powering a concept app for club/department recruitments at BITS Pilani. Written on node.js with express.</p>"}},{"node":{"frontmatter":{"date":"2017-12-01","title":"BITS ACM Website","tech":["Django","Python","JavaScript"],"github":"https://github.com/dush-t/ACM_website","external":"bitsacm.herokuapp.com","company":null},"html":"<p>The official website of ACM's BITS Pilani student chapter, controlled by an older version of the universal CMS mentioned above (see BITS-website in featured projects)</p>"}},{"node":{"frontmatter":{"date":"2017-11-01","title":"anonyChat","tech":["node.js","socket.io","JavaScript"],"github":"https://github.com/dush-t/anonyChat","external":"http://dush-t-chatapp.herokuapp.com","company":null},"html":"<p>A small-scale anonymous chat-room app, written in JavaScript, powered by Socket.io. Does not require a traditional database (like MySQL or MongoDB) to work. Users can host their own chat servers.</p>"}},{"node":{"frontmatter":{"date":"2017-10-01","title":"Stock Market Simulation","tech":["node.js","express","GraphQL","MongoDB"],"github":"https://github.com/dush-t/SMS20","external":null,"company":null},"html":"<p>A web-based game where users get virtual money and can trade stocks. Stock prices change approximately according to the rules of the Stock Market.</p>"}},{"node":{"frontmatter":{"date":"2017-08-01","title":"Blockchain Voting","tech":["blockchain"],"github":"https://github.com/dush-t/blockchain-voting","external":null,"company":null},"html":"<p>Idea submission for a blockchain based voting system for CodeFunDo++ 2019.</p>"}},{"node":{"frontmatter":{"date":"2017-03-01","title":"weather-app","tech":["node.js","express"],"github":"https://github.com/dush-t/weather-app","external":"","company":null},"html":"<p>A little weather app that I built while I was learning back-end development with node.js</p>"}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{
+  "componentChunkName": "component---src-pages-archive-js",
+  "path": "/archive/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-11-12",
+                "title": "multiq",
+                "tech": ["Go"],
+                "github": "https://github.com/dush-t/multiq",
+                "external": null,
+                "company": "Upstatement"
+              },
+              "html": "<p>A library that helps a user to register endpoints and spin up lightweight queues to queue http requests to those endpoints in order to achieve strict pessimistic concurrency control at the network request level.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018-12-29",
+                "title": "mindmap",
+                "tech": ["Python", "Django", "React"],
+                "github": "https://github.com/dush-t/mindmap",
+                "external": null,
+                "company": null
+              },
+              "html": "<p>A simple web app to help my girlfriend - a design student - create mind-maps for her product design homework.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018-05-01",
+                "title": "Autohost",
+                "tech": ["bash", "nginx", "docker-compose"],
+                "github": "https://github.com/dush-t/autohost",
+                "external": null,
+                "company": null
+              },
+              "html": "<p>A collection of shell scripts for quick production deployment of web apps.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018-04-20",
+                "title": "task-manager",
+                "tech": ["node.js", "express", "mongodb"],
+                "github": "https://github.com/dush-t/task-manager",
+                "external": null,
+                "company": null
+              },
+              "html": "<p>REST API (with token authentication) powering a concept app for club/department recruitments at BITS Pilani. Written on node.js with express.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-12-01",
+                "title": "BITS ACM Website",
+                "tech": ["Django", "Python", "JavaScript"],
+                "github": "https://github.com/dush-t/ACM_website",
+                "external": "bitsacm.herokuapp.com",
+                "company": null
+              },
+              "html": "<p>The official website of ACM's BITS Pilani student chapter, controlled by an older version of the universal CMS mentioned above (see BITS-website in featured projects)</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-11-01",
+                "title": "anonyChat",
+                "tech": ["node.js", "socket.io", "JavaScript"],
+                "github": "https://github.com/dush-t/anonyChat",
+                "external": "http://dush-t-chatapp.herokuapp.com",
+                "company": null
+              },
+              "html": "<p>A small-scale anonymous chat-room app, written in JavaScript, powered by Socket.io. Does not require a traditional database (like MySQL or MongoDB) to work. Users can host their own chat servers.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-10-01",
+                "title": "Stock Market Simulation",
+                "tech": ["node.js", "express", "GraphQL", "MongoDB"],
+                "github": "https://github.com/dush-t/SMS20",
+                "external": null,
+                "company": null
+              },
+              "html": "<p>A web-based game where users get virtual money and can trade stocks. Stock prices change approximately according to the rules of the Stock Market.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-08-01",
+                "title": "Blockchain Voting",
+                "tech": ["blockchain"],
+                "github": "https://github.com/dush-t/blockchain-voting",
+                "external": null,
+                "company": null
+              },
+              "html": "<p>Idea submission for a blockchain based voting system for CodeFunDo++ 2019.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-03-01",
+                "title": "weather-app",
+                "tech": ["node.js", "express"],
+                "github": "https://github.com/dush-t/weather-app",
+                "external": "",
+                "company": null
+              },
+              "html": "<p>A little weather app that I built while I was learning back-end development with node.js</p>"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "isCreatedByStatefulCreatePages": true }
+  }
+}
