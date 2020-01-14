@@ -2,4 +2,4 @@
 title: 'Get In Touch'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+I'm currently looking for internship opportunities in software development. Although my profile makes it looks like I'm entirely a server-side guy, I'm open to opportunities in front-end web development too.

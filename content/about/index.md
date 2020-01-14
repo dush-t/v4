@@ -3,16 +3,18 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
   - React
-  - Vue
+  - Python
+  - Django
+  - GoLang
   - Node.js
   - Express
-  - NativeScript
+  - Shell
+  - GraphQL
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hi. I'm Dushyant, a web developer and a CS sophomore at [BITS Pilani](https://www.bits-pilani.ac.in). I develop and deploy flexible, robust server-side services that power modern web and mobile apps. I'm currently managing [GoLuggageFree](https://www.goluggagefree.com)'s entire server-side infrastructure.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I have a deep interest in computer networks and distributed computing. I'm currently working on an SDN project under Prof. K. Haribabu at BITS Pilani.
 
-Here are a few technologies I've been working with recently:
+Here is some tech that I've recently worked with:

@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Dushyant Yadav | Web Developer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Dushyant Yadav is a web developer (primarily back end) and CS sophomore at BITS Pilani',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
-  siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+    'Dushyant Yadav, Dushyant, Yadav, Back-end, backend, back end, front-end, frontend, front end, developer, BITS Pilani, DVM, ACM',
+  siteUrl: 'https://dush-t.github.io',
+  siteLanguage: 'en_IN',
+  googleAnalyticsID: 'UA-156154580-1',
+  googleVerification: 'QDAtLVyPQ9BTbRSnkv5A957suJM4-g4PUEksKfARmQE',
+  name: 'Dushyant Yadav',
+  location: 'Pilani, India',
+  email: 'dushyant9309@gmail.com',
+  github: 'https://github.com/dush-t',
+  twitterHandle: '@mr_dush__t',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/dush-t',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/dushyant9309',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/dush__t',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/mr_dush__t',
     },
   ],
 
